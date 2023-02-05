@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354792364467",
+    "project_id": "usama-58c15",
+    "storage_bucket": "usama-58c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354792364467:android:0de364fa636a54945913c6",
+        "android_client_info": {
+          "package_name": "com.usama.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354792364467-ogge6bvr9ia0lo1345u7j7aa758c19v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBudys6pufG76AErPqL0tuZhw2z0qVRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354792364467-ogge6bvr9ia0lo1345u7j7aa758c19v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
